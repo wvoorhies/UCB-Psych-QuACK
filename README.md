@@ -1,15 +1,14 @@
 
+![QuACK](https://github.com/UCB-Psychology-QuACK/UCB-Psych-QuACK.github.io/blob/master/logo.png)
 
-![](https://github.com/UCB-Psychology-QuACK/UCB-Psych-QuACK.github.io/blob/master/logo.png)
-
-
-   *Quantitative Analysis and Coding Knowledge Workshop*
+#### Quantitative Analysis and Coding Knowledge Workshop (UC Berkeley, Psychology)
+ 
 
 **2020 Coordinators:** [Elena Leib](https://bungelab.berkeley.edu/graduate-students/) & [Willa Voorhies](https://cnl.berkeley.edu/people/willa-voorhies/)
 
 
 ## Welcome to QuACK! 
-QuACK is a data-analysis workshop series for incoming psychology grads, created by and taught by Psych grads.
+QuACK is a data-analysis workshop series for incoming psychology grads, created by and taught by Psych grads!
 
 
 ### Our Goals
@@ -20,14 +19,14 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
    
 
 
+
+
   
-### 2020 Schedule
+## 2020 Schedule
 ![2020 schedule](https://github.com/UCB-Psychology-QuACK/UCB-Psych-QuACK.github.io/blob/master/Schedule_2020.png)
 
 
-
-
-  ### Resources for the 2020 cohort
+  ## Resources for the 2020 cohort
  
  * ![Github Classroom](https://classroom.github.com/a/j87Cevx5)
  
