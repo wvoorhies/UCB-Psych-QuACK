@@ -1,7 +1,7 @@
 
 # Quantitative Analysis and Coding Knowledge 
 
-![](img/logo.png)
+<img src="images/k8s-dashboard.png" > ![](img/logo.png)
 
  *UC Berkeley, Psychology*
  
