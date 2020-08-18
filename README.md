@@ -1,7 +1,9 @@
 
-![QuACK](https://github.com/UCB-Psychology-QuACK/UCB-Psych-QuACK.github.io/blob/master/img/logo.png)
+# Quantitative Analysis and Coding Knowledge 
 
-#### Quantitative Analysis and Coding Knowledge Workshop (UC Berkeley, Psychology)
+![](https://github.com/UCB-Psychology-QuACK/UCB-Psych-QuACK.github.io/blob/master/img/logo.png)
+
+ *UC Berkeley, Psychology*
  
 
 **2020 Coordinators:** [Elena Leib](https://bungelab.berkeley.edu/graduate-students/) & [Willa Voorhies](https://cnl.berkeley.edu/people/willa-voorhies/)
