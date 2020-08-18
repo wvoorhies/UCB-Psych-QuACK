@@ -1,7 +1,7 @@
 
 # Quantitative Analysis and Coding Knowledge 
 
-<img src="images/k8s-dashboard.png" > ![](img/logo.png)
+<img src="img/logo.png"> ![](img/logo.png)
 
  *UC Berkeley, Psychology*
  
@@ -25,13 +25,13 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
   
 ## 2020 Schedule
-![2020 schedule](img/Schedule_2020.png)
+<img src="img/Schedule_2020.png"> ![2020 schedule](img/Schedule_2020.png)
 
 
   ## Resources for the 2020 cohort
  
  * ![Github Classroom](https://classroom.github.com/a/j87Cevx5)
  
- * ![Info session powerpoint](img/QuACK_info_session.pdf)
+ * <img src="img/Schedule_2020.png"> ![Info session powerpoint](img/QuACK_info_session.pdf)
  
  
