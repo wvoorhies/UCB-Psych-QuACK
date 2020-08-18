@@ -32,6 +32,6 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
  
  * ![Github Classroom](https://classroom.github.com/a/j87Cevx5)
  
- * <img src="img/Schedule_2020.png"> ![Info session powerpoint](img/QuACK_info_session.pdf)
+ * <link src="img/Schedule_2020.pdf"> ![Info session powerpoint](img/QuACK_info_session.pdf)
  
  
