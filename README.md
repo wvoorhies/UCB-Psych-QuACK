@@ -29,11 +29,6 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
 
 ## Resources for the 2020 cohort
- 
- * ![QuACK github](https://github.com/UCB-Psychology-QuACK)
- 
- * ![Github Classroom](https://classroom.github.com/a/j87Cevx5)
- 
- * ![Info session powerpoint](img/QuACK_info_session.pdf)
+ *  Info session slides <a href="img/QuACK_info_session.pdf">
  
  
