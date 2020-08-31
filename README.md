@@ -25,6 +25,8 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
   
 ## 2020 Schedule
+
+
 |  Week | Topic | Agenda | 
 | ------|-------|------- |
 | Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1) </li><li> Slides | <ul><li>datatypes</li><li>vectors & indexing</li><li> intro to dataframes </li><li> levels & factors|
