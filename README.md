@@ -29,19 +29,19 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
 |  Week | Topic | Agenda | 
 | ------|-------|------- |
-| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1) </li><li> Slides |<ul><li>datatypes</li><li>vectors & indexing</li><li> intro to dataframes </li><li> levels & factors</li></ul>|
-| Week 2| Github & Dataframes| <ul><li>intro to Github</li><li>Reading and viewing data</li><li> Dataframes cont. </li><li> Accessing and summarizing data</li></ul>|
-| Week 3| Data cleaning (base R) | <ul><li>Vectorization</li><li>missing data</li><li> editing dataframes </li><li> adding and removing data</li></ul> |
-| Week 4| Data cleaning (dplyr) | <ul><li> data cleaning with tidyverse </li><li>grouping, summarizing, filtering data </li><li> pipes</li></ul>|
-| Week 5| Reshaping data |<ul><li> wide vs. long format </li><li>  when to reshape data </li><li> benefits and uses of different formats</li></ul>|
-| Week 6| Intro to loops | <ul><li> interating over vectors </li><li>  for loops </li><li> nested loops</li></ul>|
- | Week 7| Random sampling | <ul><li> populations and sampling distributions </li><li> random variables </li><li> random sampling (example)</li></ul>|
-  | Week 8| Intro to Data visualization | <ul><li> formatting data for visualization </li><li> plotting in base R </li><li> ggplot intro</li></ul>|
-  | Week 9| Data visualization cont.  | <ul><li> visualizing results </li><li> ggplot challenge!</li></ul>|
+| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1) </li><li> Slides ||
+| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/dataframes-week2)|| 
+| Week 3| Data cleaning (base R) ||
+| Week 4| Data cleaning (dplyr) ||
+| Week 5| Reshaping data ||
+| Week 6| Intro to loops ||
+ | Week 7| Random sampling | |
+  | Week 8| Intro to Data visualization | |
+  | Week 9| Data visualization cont.  | |
  | Week 10| Review  | Make an R "cheat sheet"|
  | Week 11| Discussion Topic: Racisim in statistics| |
  | Week 12| Thanksgiving break| No QuACK!! |
- | Week 13| Discussion Topic: open science and data sharing| |
+ | Week 13| Discussion Topic: open science and data sharing||
  | Week 14| Flex week |for whatever, whenever in the schedule |
  | Week 15| Celebrate!|Celebrate the end of the fall semester |
  
