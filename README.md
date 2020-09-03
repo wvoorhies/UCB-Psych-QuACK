@@ -29,15 +29,15 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
 |  Week | Topic | Agenda | 
 | ------|-------|------- |
-| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1) </li><li> Slides ||
-| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/dataframes-week2)|| 
-| Week 3| Data cleaning (base R) ||
-| Week 4| Data cleaning (dplyr) ||
-| Week 5| Reshaping data ||
-| Week 6| Intro to loops ||
- | Week 7| Random sampling | |
-  | Week 8| Intro to Data visualization | |
-  | Week 9| Data visualization cont.  | |
+| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1) <p><a href="img/QuACK_Week1_Intro.pdf">slides</a></p> |Datatypes; Operators; Vectors & Indexing; Levels & Factors|
+| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/dataframes-week2) <p><a href="img/QuACK_Week2_github_post.pdf">slides</a></p>|Intro to using Github; Reading-in data; Accessing dataframes; viewing/summarizing data|
+| Week 3| Data cleaning (base R) |vectorization; missing variables; editing dataframes; adding/removing data|
+| Week 4| Data cleaning (dplyr) |tidyverse;grouping & filtering;pipes|
+| Week 5| Reshaping data |reshaping data into wide/long format; when to reshape data; benefits and uses of different formats|
+| Week 6| Intro to loops |iterating over vectors; for loops; nested loops|
+ | Week 7| Random sampling |Populations and sampling distributions; Random variables; for loops cont.;Random sampling|
+  | Week 8| Intro to Data visualization |Formatting data for visualization; plotting in base R; ggplot intro|
+  | Week 9| Data visualization cont.  |Visualizing results; ggplot challenge!!!|
  | Week 10| Review  | Make an R "cheat sheet"|
  | Week 11| Discussion Topic: Racisim in statistics| |
  | Week 12| Thanksgiving break| No QuACK!! |
