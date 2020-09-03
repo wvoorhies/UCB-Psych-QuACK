@@ -29,8 +29,8 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
 |  Week | Topic | Agenda | 
 | ------|-------|------- |
-| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1) <p><a href="img/QuACK_Week1_Intro.pdf">slides</a></p> |Datatypes; Operators; Vectors & Indexing; Levels & Factors|
-| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/dataframes-week2) <p><a href="img/QuACK_Week2_github_post.pdf">slides</a></p>|Intro to using Github; Reading-in data; Accessing dataframes; viewing/summarizing data|
+| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1), <a href="img/QuACK_Week1_Intro.pdf">slides</a> |Datatypes; Operators; Vectors & Indexing; Levels & Factors|
+| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/dataframes-week2), <a href="img/QuACK_Week2_github_post.pdf">slides</a>|Intro to using Github; Reading-in data; Accessing dataframes; viewing/summarizing data|
 | Week 3| Data cleaning (base R) |vectorization; missing variables; editing dataframes; adding/removing data|
 | Week 4| Data cleaning (dplyr) |tidyverse;grouping & filtering;pipes|
 | Week 5| Reshaping data |reshaping data into wide/long format; when to reshape data; benefits and uses of different formats|
