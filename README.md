@@ -25,7 +25,7 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
   
 ## 2020 Schedule
-
+**Tuesdays 5:15-7:15 pm (PST)**
 
 |  Week | Topic | Agenda | 
 | ------|-------|------- |
