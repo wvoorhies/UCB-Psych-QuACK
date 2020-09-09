@@ -38,11 +38,11 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
  | Week 7| Random sampling |Populations and sampling distributions; Random variables; for loops cont.;Random sampling|
   | Week 8| Intro to Data visualization |Formatting data for visualization; plotting in base R; ggplot intro|
   | Week 9| Data visualization cont.  |Visualizing results; ggplot challenge!!!|
- | Week 10| Review  | Make an R "cheat sheet"|
- | Week 11| Discussion Topic: Racisim in statistics| |
- | Week 12| Thanksgiving break| No QuACK!! |
- | Week 13| Discussion Topic: open science and data sharing||
- | Week 14| Flex week |for whatever, whenever in the schedule |
+  | Week 10| Functions |Intro to creating functions |
+ | Week 11| Review  | Make an R "cheat sheet"|
+ | Week 12| Discussion Topic: Racisim in statistics| |
+ | Week 13| Thanksgiving break| No QuACK!! |
+ | Week 14| Discussion Topic: open science and data sharing||
  | Week 15| Celebrate!|Celebrate the end of the fall semester |
  
  
