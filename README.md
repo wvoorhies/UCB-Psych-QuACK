@@ -32,7 +32,7 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 | Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1), <a href="img/QuACK_Week1_Intro.pdf">slides</a> |Datatypes; Operators; Vectors & Indexing; Levels & Factors|
 | Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/dataframes-week2), <a href="img/QuACK_Week2_github_post.pdf">slides</a> |Intro to using Github; Reading-in data; Accessing dataframes; viewing/summarizing data|
 | Week 3| [Logic & Data cleaning (base R)](https://github.com/UCB-Psychology-QuACK/datacleaning_baseR_week3), <a href="img/QuACK_Week3_logic_dataCleaning.pdf">slides</a>|logic operators; vectorization; logical indexing; missing values; subsetting dataframes|
-| Week 4| Data cleaning (dplyr) |tidyverse;grouping & filtering;pipes|
+| Week 4| [Data cleaning (dplyr)](https://github.com/UCB-Psychology-QuACK/datacleaning_tidyverse_week4) |tidyverse;grouping & filtering;pipes|
 | Week 5| Reshaping data |reshaping data into wide/long format; when to reshape data; benefits and uses of different formats|
 | Week 6| Intro to loops |iterating over vectors; for loops; nested loops|
  | Week 7| Random sampling |Populations and sampling distributions; Random variables; for loops cont.;Random sampling|
