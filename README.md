@@ -35,7 +35,7 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 | Week 4| [Data cleaning (dplyr)](https://github.com/UCB-Psychology-QuACK/datacleaning_tidyverse_week4) |tidyverse;grouping & filtering;pipes|
 | Week 5| [Tidyverse cont](https://github.com/UCB-Psychology-QuACK/tidyverse_part2_week5) |tidyverse cont. |
   | Week 6|[Intro to Data visualization & Data Reshaping](https://github.com/UCB-Psychology-QuACK/Reshaping_introDataVis_week6) | Plotting in base R; organizing and reshaping data, formatting data for visualization |
-  | Week 7| Data visualization cont.  |Visualizing results; ggplot challenge!!!|
+  | Week 7| [Data visualization cont](https://github.com/UCB-Psychology-QuACK/reshaping_ggplot_week6).  |Visualizing results; ggplot challenge!!!|
 | Week 8| Intro to loops |iterating over vectors; for loops; nested loops|
  | Week 9| Random sampling |Populations and sampling distributions; Random variables; for loops cont.;Random sampling|
   | Week 10| Functions |Intro to creating functions |
