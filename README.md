@@ -35,9 +35,9 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 | Week 4| [Data cleaning (dplyr)](https://github.com/UCB-Psychology-QuACK/datacleaning_tidyverse_week4) |tidyverse;grouping & filtering;pipes|
 | Week 5| [Tidyverse cont](https://github.com/UCB-Psychology-QuACK/tidyverse_part2_week5) |tidyverse cont. |
   | Week 6|[Intro to Data visualization & Data Reshaping](https://github.com/UCB-Psychology-QuACK/Reshaping_introDataVis_week6) | Plotting in base R; organizing and reshaping data, formatting data for visualization |
-  | Week 7| [Data visualization cont](https://github.com/UCB-Psychology-QuACK/reshaping_ggplot_week6).  |Visualizing results; ggplot challenge!!!|
+  | Week 7| [Data visualization - part 2](https://github.com/UCB-Psychology-QuACK/reshaping_ggplot_week6)  |Visualizing data; ggplot challenge!|
 | Week 8| [Intro to for loops](https://github.com/UCB-Psychology-QuACK/for_loops_week8), <a href="img/QuACK_Week8_for_loops.pdf">slides</a> |Iterating over vectors; for loops|
- | Week 9| For loops | For loops cont.; nested for loops |
+ | Week 9| [For loops- part 2](https://github.com/UCB-Psychology-QuACK/week9_for_loops_part2/blob/master/README.md),| For loops cont.; storing output; nested for loops |
   | Week 10| Functions |Intro to creating functions |
  | Week 11| Math review | Mathematical notation, properties of logs and exponents, probability review|
  | Week 12| Discussion Topic: Racisim in statistics| |
