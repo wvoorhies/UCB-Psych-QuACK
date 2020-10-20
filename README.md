@@ -35,7 +35,7 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 | Week 4| [Data cleaning (dplyr)](https://github.com/UCB-Psychology-QuACK/week4_datacleaning_tidyverse) |tidyverse;grouping & filtering;pipes|
 | Week 5| [Tidyverse cont](https://github.com/UCB-Psychology-QuACK/week5_tidyverse_part2) |tidyverse cont. |
   | Week 6|[Intro to Data visualization & Data Reshaping](https://github.com/UCB-Psychology-QuACK/week6_reshaping_introDataVis) | Plotting in base R; organizing and reshaping data, formatting data for visualization |
-  | Week 7| [Data visualization - part 2](https://github.com/UCB-Psychology-QuACK/week7_reshaping_ggplot), <a href="img/Week 7- data Vis.pdf">slides</a>, <a href="img/Week7_markdownOutput.pdf>markdown output</a>|Visualizing data; ggplot challenge!|
+  | Week 7| [Data visualization - part 2](https://github.com/UCB-Psychology-QuACK/week7_reshaping_ggplot),<a href="img/Week7_markdownOutput.pdf">markdown</a>, <a href="img/Week 7- data Vis.pdf">slides</a>  |Visualizing data; ggplot challenge!|
 | Week 8| [Intro to for loops](https://github.com/UCB-Psychology-QuACK/week8_for_loops), <a href="img/QuACK_Week8_for_loops.pdf">slides</a> |Iterating over vectors; for loops|
  | Week 9| [For loops- part 2](https://github.com/UCB-Psychology-QuACK/week9_for_loops_part2/blob/master/README.md),| For loops cont.; storing output; nested for loops |
   | Week 10| Functions |Intro to creating functions |
