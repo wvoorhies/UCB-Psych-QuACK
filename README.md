@@ -29,14 +29,14 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
 |  Week | Topic | Agenda | 
 | ------|-------|------- |
-| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/introR_week1), <a href="img/QuACK_Week1_Intro.pdf">slides</a> |Datatypes; Operators; Vectors & Indexing; Levels & Factors|
-| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/dataframes-week2), <a href="img/QuACK_Week2_github_post.pdf">slides</a> |Intro to using Github; Reading-in data; Accessing dataframes; viewing/summarizing data|
-| Week 3| [Logic & Data cleaning (base R)](https://github.com/UCB-Psychology-QuACK/datacleaning_baseR_week3), <a href="img/QuACK_Week3_logic_dataCleaning.pdf">slides</a>|logic operators; vectorization; logical indexing; missing values; subsetting dataframes|
-| Week 4| [Data cleaning (dplyr)](https://github.com/UCB-Psychology-QuACK/datacleaning_tidyverse_week4) |tidyverse;grouping & filtering;pipes|
-| Week 5| [Tidyverse cont](https://github.com/UCB-Psychology-QuACK/tidyverse_part2_week5) |tidyverse cont. |
-  | Week 6|[Intro to Data visualization & Data Reshaping](https://github.com/UCB-Psychology-QuACK/Reshaping_introDataVis_week6) | Plotting in base R; organizing and reshaping data, formatting data for visualization |
-  | Week 7| [Data visualization - part 2](https://github.com/UCB-Psychology-QuACK/reshaping_ggplot_week6)  |Visualizing data; ggplot challenge!|
-| Week 8| [Intro to for loops](https://github.com/UCB-Psychology-QuACK/for_loops_week8), <a href="img/QuACK_Week8_for_loops.pdf">slides</a> |Iterating over vectors; for loops|
+| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/week1_introR), <a href="img/QuACK_Week1_Intro.pdf">slides</a> |Datatypes; Operators; Vectors & Indexing; Levels & Factors|
+| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/week2_dataframes), <a href="img/QuACK_Week2_github_post.pdf">slides</a> |Intro to using Github; Reading-in data; Accessing dataframes; viewing/summarizing data|
+| Week 3| [Logic & Data cleaning (base R)](https://github.com/UCB-Psychology-QuACK/week3_datacleaning_baseR), <a href="img/QuACK_Week3_logic_dataCleaning.pdf">slides</a>|logic operators; vectorization; logical indexing; missing values; subsetting dataframes|
+| Week 4| [Data cleaning (dplyr)](https://github.com/UCB-Psychology-QuACK/week4_datacleaning_tidyverse) |tidyverse;grouping & filtering;pipes|
+| Week 5| [Tidyverse cont](https://github.com/UCB-Psychology-QuACK/week5_tidyverse_part2) |tidyverse cont. |
+  | Week 6|[Intro to Data visualization & Data Reshaping](https://github.com/UCB-Psychology-QuACK/week6_reshaping_introDataVis) | Plotting in base R; organizing and reshaping data, formatting data for visualization |
+  | Week 7| [Data visualization - part 2](https://github.com/UCB-Psychology-QuACK/week7_reshaping_ggplot), <a href="img/Week 7- data Vis.pdf">slides</a>, <a href="img/Week7_markdownOutput.pdf>markdown output</a>|Visualizing data; ggplot challenge!|
+| Week 8| [Intro to for loops](https://github.com/UCB-Psychology-QuACK/week8_for_loops), <a href="img/QuACK_Week8_for_loops.pdf">slides</a> |Iterating over vectors; for loops|
  | Week 9| [For loops- part 2](https://github.com/UCB-Psychology-QuACK/week9_for_loops_part2/blob/master/README.md),| For loops cont.; storing output; nested for loops |
   | Week 10| Functions |Intro to creating functions |
  | Week 11| Math review | Mathematical notation, properties of logs and exponents, probability review|
