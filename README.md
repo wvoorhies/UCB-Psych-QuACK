@@ -38,8 +38,8 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
   | Week 7| [Data visualization - part 2](https://github.com/UCB-Psychology-QuACK/week7_reshaping_ggplot),<a href="img/Week7_markdownOutput.pdf">markdown</a>, <a href="img/Week 7- data Vis.pdf">slides</a>  |Visualizing data; ggplot challenge!|
 | Week 8| [Intro to for loops](https://github.com/UCB-Psychology-QuACK/week8_for_loops), <a href="img/QuACK_Week8_for_loops.pdf">slides</a> |Iterating over vectors; for loops|
  | Week 9| [For loops- part 2](https://github.com/UCB-Psychology-QuACK/week9_for_loops_part2/blob/master/README.md),| For loops cont.; storing output; nested for loops |
-  | Week 10| Functions |Intro to creating functions |
- | Week 11| Math review | Mathematical notation, properties of logs and exponents, probability review|
+  | Week 10| Election|s |
+ | Week 11| Functions / Math review | |
  | Week 12| Discussion Topic: Racisim in statistics| |
  | Week 13| Thanksgiving break| No QuACK!! |
  | Week 14| Discussion Topic: open science and data sharing||
