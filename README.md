@@ -29,20 +29,20 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
 
 |  Week | Topic | Agenda | 
 | ------|-------|------- |
-| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/week1_introR),<ul><li><a href="img/QuACK_Week1_Intro.pdf">slides</a> </li>|Datatypes; Operators; Vectors & Indexing; Levels & Factors|
-| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/week2_dataframes), <a href="img/QuACK_Week2_github_post.pdf">slides</a> |Intro to using Github; Reading-in data; Accessing dataframes; viewing/summarizing data|
+| Week 1| [Intro to R & Programming](https://github.com/UCB-Psychology-QuACK/week1_introR),<a href="img/QuACK_Week1_Intro.pdf">slides</a>|Datatypes; Operators; Vectors & Indexing; Levels & Factors|
+| Week 2| [Github & Dataframes](https://github.com/UCB-Psychology-QuACK/week2_dataframes), <a href="img/QuACK_Week2_github_post.pdf">slides</a>   |Intro to using Github; Reading-in data; Accessing dataframes; viewing/summarizing data|
 | Week 3| [Logic & Data cleaning (base R)](https://github.com/UCB-Psychology-QuACK/week3_datacleaning_baseR), <a href="img/QuACK_Week3_logic_dataCleaning.pdf">slides</a>|logic operators; vectorization; logical indexing; missing values; subsetting dataframes|
-| Week 4| [Data cleaning (dplyr)](https://github.com/UCB-Psychology-QuACK/week4_datacleaning_tidyverse) |tidyverse;grouping & filtering;pipes|
+| Week 4| [Data cleaning (dplyr)](https://github.com/UCB-Psychology-QuACK/week4_datacleaning_tidyverse) |tidyverse; grouping & filtering; pipes|
 | Week 5| [Tidyverse cont](https://github.com/UCB-Psychology-QuACK/week5_tidyverse_part2) |tidyverse cont. |
-  | Week 6|[Intro to Data visualization & Data Reshaping](https://github.com/UCB-Psychology-QuACK/week6_reshaping_introDataVis) | Plotting in base R; organizing and reshaping data, formatting data for visualization |
+  | Week 6|[Intro to Data visualization & Data Reshaping](https://github.com/UCB-Psychology-QuACK/week6_reshaping_introDataVis) | Plotting in base R; organizing and reshaping data; formatting data for visualization |
   | Week 7| [Data visualization - part 2](https://github.com/UCB-Psychology-QuACK/week7_reshaping_ggplot),<a href="img/Week7_markdownOutput.pdf">markdown</a>, <a href="img/Week 7- data Vis.pdf">slides</a>  |Visualizing data; ggplot challenge!|
 | Week 8| [Intro to for loops](https://github.com/UCB-Psychology-QuACK/week8_for_loops), <a href="img/QuACK_Week8_for_loops.pdf">slides</a> |Iterating over vectors; for loops|
  | Week 9| [For loops- part 2](https://github.com/UCB-Psychology-QuACK/week9_for_loops_part2/blob/master/README.md),| For loops cont.; storing output; nested for loops |
- | Week 10| [Functions](https://github.com/UCB-Psychology-QuACK/week10_functions)| |
- | Week 11| [Math Notation](https://github.com/UCB-Psychology-QuACK/week11_mathNotation)| Summation (sigma) ; implementation in R|
- | Week 12| Math Notation cont. | double sigma and implementation in R; set theory; properties of logs and exponents| 
+ | Week 10| [Functions](https://github.com/UCB-Psychology-QuACK/week10_functions)| why use functions; building blocks of functions; writing a function|
+ | Week 11| [Math Notation](https://github.com/UCB-Psychology-QuACK/week11_mathNotation)| Summation (sigma); implementation in R|
+ | Week 12| Math Notation cont. | set theory; properties of logs and exponents| 
  | Week 13| Discussion Topic: Racism in statistics| [Article](https://medium.com/swlh/is-statistics-racist-59cd4ddb5fa9)|
- | Week 15| Celebrate!|Celebrate the end of the fall semester |
+
  
  
  
