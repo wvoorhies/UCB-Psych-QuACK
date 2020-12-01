@@ -47,7 +47,7 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
  
  
 
-## Additional Resources for the 2020 cohort
+## Additional Resources
  * <a href="img/QuACK_info_session.pdf">info session slides</a>.
  * [installing git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
  * [Connect to GitHub with SSH](https://kbroman.org/github_tutorial/pages/first_time.html)
