@@ -41,7 +41,7 @@ QuACK is a data-analysis workshop series for incoming psychology grads, created 
  | Week 10| [Functions](https://github.com/UCB-Psychology-QuACK/week10_functions)| why use functions; building blocks of functions; writing a function|
  | Week 11| [Math Notation](https://github.com/UCB-Psychology-QuACK/week11_mathNotation), [<a href="img/summation.pdf">slides</a>]| Summation (sigma); implementation in R|
  | Week 12| Math Notation cont. | set theory; properties of logs and exponents| 
- | Week 13| Discussion Topic: Racism in statistics| [Article](https://medium.com/swlh/is-statistics-racist-59cd4ddb5fa9)|
+ | Week 13| [Racism in statistics](https://medium.com/swlh/is-statistics-racist-59cd4ddb5fa9)| Discussion|
 
  
  
