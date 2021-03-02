@@ -1,5 +1,5 @@
 
-# Quantitative Analysis and Coding Knowledge 
+
 
 ![](img/logo.png)
 
